@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an [2D Unity Base Project][UnityBase].
 - 🎮 I'm making games for [Spy Turtle Studio][STS].
-- 🎓 I’m currently studying at 
+- 🎓 I’m currently studying at [Carl von Ossietzky University Oldenburg][Uni].
 - 📫 How to reach me: feuermoond@gmail.com
 - 😄 Pronouns: He/Him
 
@@ -27,6 +27,7 @@
 [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][STSYouTube]
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][STSInstagram]
 
+[Uni]: https://uol.de/en/
 [UnityBase]: https://github.com/DDiekmann/BaseGameProject
 [Twitter]: https://twitter.com/Feuermoond
 [STS]: https://spy-turtle-studio.itch.io/
