@@ -1,7 +1,7 @@
 ### Welcome to my Programming Home 👋
 &nbsp;
 
-- 🔭 I’m currently working on an [2D Unity Base Project][UnityBase].
+- 🔭 I’m currently working on an my current semester.
 - 🎮 I'm making games for [Spy Turtle Studio][STS].
 - 🎓 I’m currently studying at [Carl von Ossietzky University Oldenburg][Uni].
 - 📫 How to reach me: feuermoond@gmail.com
