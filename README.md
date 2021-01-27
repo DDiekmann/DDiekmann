@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on an my current semester.
 - 🎮 I'm making games for [Spy Turtle Studio][STS].
 - 🎓 I’m currently studying at [Carl von Ossietzky University Oldenburg][Uni].
-- 📫 How to reach me: diekdennd@gmail.com
+- 📫 How to reach me: diekdenn@gmail.com
 - 😄 Pronouns: He/Him
 
 &nbsp;
