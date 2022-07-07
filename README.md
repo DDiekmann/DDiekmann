@@ -15,10 +15,6 @@
 #### Here you can find me:
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
 
-&nbsp;
-#### And here you can find Spy Turtle Studio:
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][STSTwitter] [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][STSYouTube] [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][STSInstagram]
-
 [Uni]: https://uol.de/en/
 [UnityBase]: https://github.com/DDiekmann/BaseGameProject
 [Twitter]: https://twitter.com/Feuermoond
