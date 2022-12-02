@@ -1,10 +1,9 @@
 ### Welcome to my Programming Home 👋
 &nbsp;
 
-- 🔭 I’m currently working on my current semester.
+- 🔭 I’m currently working on my master thesis.
 - 🎓 I’m currently studying at [Carl von Ossietzky University Oldenburg][Uni].
 - 📫 How to reach me: diekdenn@gmail.com
-- 😄 Pronouns: He/Him
 
 &nbsp;
 #### Working with:
